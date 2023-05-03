@@ -1,0 +1,5 @@
+C:\Users\ekek\Documents\Automation Project\obj\Debug\net6.0\AutomationProject.csproj.AssemblyReference.cache
+C:\Users\ekek\Documents\Automation Project\obj\Debug\net6.0\AutomationProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekek\Documents\Automation Project\obj\Debug\net6.0\AutomationProject.AssemblyInfoInputs.cache
+C:\Users\ekek\Documents\Automation Project\obj\Debug\net6.0\AutomationProject.AssemblyInfo.cs
+C:\Users\ekek\Documents\Automation Project\obj\Debug\net6.0\AutomationProject.csproj.CoreCompileInputs.cache

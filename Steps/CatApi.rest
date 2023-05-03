@@ -1,0 +1,9 @@
+# https://cdn2.thecatapi.com/images/131.jpg
+
+@baseUrl = https://cdn2.thecatapi.com/images
+
+
+
+GET {{{baseUrl}}}/131.jpg HTTP/1.1
+
+
