@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ekek\\Documents\\Automation Project\\Automation Project.csproj": {}
+    "c:\\Users\\ekek\\Documents\\Automation Project\\Automation Project.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ekek\\Documents\\Automation Project\\Automation Project.csproj": {
+    "c:\\Users\\ekek\\Documents\\Automation Project\\Automation Project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ekek\\Documents\\Automation Project\\Automation Project.csproj",
+        "projectUniqueName": "c:\\Users\\ekek\\Documents\\Automation Project\\Automation Project.csproj",
         "projectName": "Automation Project",
-        "projectPath": "C:\\Users\\ekek\\Documents\\Automation Project\\Automation Project.csproj",
+        "projectPath": "c:\\Users\\ekek\\Documents\\Automation Project\\Automation Project.csproj",
         "packagesPath": "C:\\Users\\ekek\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ekek\\Documents\\Automation Project\\obj\\",
+        "outputPath": "c:\\Users\\ekek\\Documents\\Automation Project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ekek\\AppData\\Roaming\\NuGet\\NuGet.Config"
